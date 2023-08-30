@@ -4,6 +4,6 @@ GitHub Security Lab’s mission is to empower developers and secure open source.
 - educating the community and empowering developers via in-person events (you can meet us during any events listed in the [event calendar](https://securitylab.github.com/events/))
 - scaling the security research community’s work with our CodeQL bug bounty programme. See [rules](https://securitylab.github.com/bounties/).
 
-In this organisation, you will find some of our projects aiming to educate the community and empower developers or security researchers. Check out also our team repository at [https://github.com/github/securitylab](https://github.com/github/securitylab)
+In this organisation, you will find some of our projects aiming to educate the community and empower developers or security researchers. Check out also our team repository at [github/securitylab](https://github.com/github/securitylab)
 
 Questions? Join us on our [Slack](https://gh.io/securitylabslack)https://gh.io/securitylabslack server.
